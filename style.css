@@ -152,6 +152,7 @@ h2 {
   left: 33%;
   border-radius: 50%;
   z-index: 2;
+  cursor: pointer;
 }
 
 .tallo {
